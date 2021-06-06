@@ -1,7 +1,7 @@
 ## To Run Code:
 
 ```
-cd music-player
+cd music-app
 yarn
 yarn start
 ```
